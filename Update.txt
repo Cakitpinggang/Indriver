@@ -1,9 +1,9 @@
 {
-  "GrabDriver_Update": [
+  "InDrive_Update": [
     {
  "version":"1.2.3",
  "title":"Update Tersedia",
- "description":"Grab Driver recommends that you
+ "description":"InDrive recommends that you
 update to the latest version 1.2.3 You
 can keep online the app while
 downloading the update.",
